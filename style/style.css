@@ -41,8 +41,12 @@
     gap: 32px;
     font-size: 16px;
     font-weight: 500;
-    color: #000000;
+    /* color: #000000; */
     opacity: 90%;
+}
+.nav-bar nav ul a{
+    text-decoration: none;
+    color: #000000;
 }
 
 .hero{
@@ -260,6 +264,10 @@ footer img{
 .social div{
     display: flex;
     gap: 16px;
+}
+.social div a{
+    text-decoration: none;
+    color: #000000;
 }
 .social i{
     background-color: #FFFFFF;

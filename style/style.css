@@ -209,6 +209,11 @@
     color: white;
     background-color: #30B868;
     border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
 .early-access{
     max-width: 1360px;
